@@ -3,4 +3,4 @@
 
 <h2>Protocol 87</h2>
 System funcionando em Windows / W10
-<img align="right" alt="Programdor" height="360" width="480" src="https://github.com/terrygomes/System_Gracia_Final_W10/blob/Projeto-Emprego/gracia1.jpg">
+<img align="center" alt="Programdor" height="328" width="782" src="https://github.com/terrygomes/System_Gracia_Final_W10/blob/Projeto-Emprego/gracia1.jpg">
